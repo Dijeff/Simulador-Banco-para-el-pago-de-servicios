@@ -1,0 +1,584 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{90A8A54D-1428-46F5-B549-46A4A1D14F42}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Banco_LasBrumas</RootNamespace>
+    <AssemblyName>Banco_LasBrumas</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort>44341</IISExpressSSLPort>
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\api\wsindicadoreseconomicos.disco" />
+    <None Include="Connected Services\api\configuration91.svcinfo" />
+    <None Include="Connected Services\api\configuration.svcinfo" />
+    <None Include="Connected Services\api\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <Content Include="Connected Services\ServiceReference1\Banco_LasBrumas.ServiceReference1.hellResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Connected Services\ServiceReference1\Banco_LasBrumas.ServiceReference1.pagoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <None Include="Connected Services\api\wsindicadoreseconomicos.wsdl" />
+    <None Include="Connected Services\ServiceReference1\configuration91.svcinfo" />
+    <None Include="Connected Services\ServiceReference1\configuration.svcinfo" />
+    <None Include="Connected Services\ServiceReference1\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Service1.wsdl" />
+    <None Include="Connected Services\ServiceReference2\Service1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Service11.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiceReference2\configuration91.svcinfo" />
+    <None Include="Connected Services\ServiceReference2\configuration.svcinfo" />
+    <None Include="Connected Services\ServiceReference2\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Connected Services\ServiceReference3\Service1.wsdl" />
+    <None Include="Connected Services\ServiceReference3\Service1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiceReference3\Service11.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiceReference4\configuration91.svcinfo" />
+    <None Include="Connected Services\ServiceReference4\configuration.svcinfo" />
+    <None Include="Connected Services\ServiceReference4\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Connected Services\ServiceReference3\configuration91.svcinfo" />
+    <None Include="Connected Services\ServiceReference3\configuration.svcinfo" />
+    <None Include="Connected Services\ServiceReference3\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Connected Services\ServiceReference5\configuration91.svcinfo" />
+    <None Include="Connected Services\ServiceReference5\configuration.svcinfo" />
+    <None Include="Connected Services\ServiceReference5\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <Content Include="View\agua.jpg" />
+    <Content Include="View\css\bootstrap.css" />
+    <Content Include="View\css\estilos.css" />
+    <Content Include="View\css\font-awesome.css" />
+    <Content Include="View\css\maicons.css" />
+    <Content Include="View\css\mobster.css" />
+    <Content Include="View\css\style.css" />
+    <Content Include="View\Ejemplo.aspx" />
+    <Content Include="View\fonts\fontawesome-webfont.svg" />
+    <Content Include="View\Home.aspx" />
+    <Content Include="View\ico.ico" />
+    <Content Include="View\Imagen.png" />
+    <Content Include="View\img\app_preview_1.png" />
+    <Content Include="View\img\avatar.svg" />
+    <Content Include="View\img\bg-01.png" />
+    <Content Include="View\img\bg.svg" />
+    <Content Include="View\img\bg_hero_1.svg" />
+    <Content Include="View\img\bg_hero_2.svg" />
+    <Content Include="View\img\hero_mini.svg" />
+    <Content Include="View\img\illustration_contact.svg" />
+    <Content Include="View\img\Imagen.png" />
+    <Content Include="View\img\logo.png" />
+    <Content Include="View\img\pattern_1.svg" />
+    <Content Include="View\img\pattern_2.svg" />
+    <Content Include="View\img\pricing_pattern.svg" />
+    <Content Include="View\img\pricing_pattern_grayscale.svg" />
+    <Content Include="View\img\wave.png" />
+    <Content Include="View\internet.jpg" />
+    <Content Include="View\js\bootstrap.bundle.min.js" />
+    <Content Include="View\js\google-maps.js" />
+    <Content Include="View\js\jquery-3.2.1.js" />
+    <Content Include="View\js\jquery-3.5.1.min.js" />
+    <Content Include="View\js\main.js" />
+    <Content Include="View\js\mobster.js" />
+    <Content Include="View\luz.jpg" />
+    <Content Include="View\M1_Home.aspx" />
+    <Content Include="View\M2_Credit_Card.aspx" />
+    <Content Include="View\M2_Credit_Card_Info.aspx" />
+    <Content Include="View\M2_Loans.aspx" />
+    <Content Include="View\M2_Loans_Info.aspx" />
+    <Content Include="View\M2_Savings_Account.aspx" />
+    <Content Include="View\M2_Savings_Account_Info.aspx" />
+    <Content Include="View\M2_Savings_Plan.aspx" />
+    <Content Include="View\M2_Savings_Plan_Info.aspx" />
+    <Content Include="View\M3_Login.aspx" />
+    <Content Include="View\M3_Token.aspx" />
+    <Content Include="View\M3_Transactions.aspx" />
+    <Content Include="View\M4_Card_Blocking.aspx" />
+    <Content Include="View\M4_New_Loan.aspx" />
+    <Content Include="View\M4_Services_Pay.aspx" />
+    <Content Include="View\M5_Internet.aspx" />
+    <Content Include="View\M5_Light.aspx" />
+    <Content Include="View\M5_Phone.aspx" />
+    <Content Include="View\M5_Water.aspx" />
+    <Content Include="View\M6_Account_Information.aspx" />
+    <Content Include="View\M6_Edit_Profile.aspx" />
+    <Content Include="View\M6_Technical_Support.aspx" />
+    <Content Include="View\M7_preguntas.aspx" />
+    <Content Include="View\M8_Interbank_Transfer.aspx" />
+    <Content Include="View\Register_client.aspx" />
+    <Content Include="View\telefono.jpg" />
+    <Content Include="View\user.jpg" />
+    <Content Include="View\user.png" />
+    <Content Include="View\vendor\animate\animate.css" />
+    <Content Include="View\vendor\owl-carousel\css\owl.carousel.min.css" />
+    <Content Include="View\vendor\owl-carousel\js\owl.carousel.min.js" />
+    <Content Include="View\vendor\wow\wow.min.js" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Connected Services\api\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Connected Services\ServiceReference1\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Connected Services\ServiceReference2\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Connected Services\ServiceReference3\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Connected Services\ServiceReference4\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Connected Services\ServiceReference5\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Controller\controladorplan.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controller\controlador_loans_info.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controller\ControllerCardBlocking.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controller\ControllerInicio.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controller\ControllerInternet.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controller\ControllerLight.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controller\ControllerNewLoan.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controller\ControllerPhone.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controller\ControllerServices.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controller\Controller_Account_Information.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controller\Controller_Credit_Cards.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controller\Controller_Credit_Card_Info.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controller\Controller_Edit_Profile.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controller\Controller_Loans.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controller\Controller_Login.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controller\Controller_preguntas.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controller\Controller_Registro.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controller\Controller_Savings_Account.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controller\controller_saving_account_info.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controller\Controller_Saving_Plan.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controller\Controller_Technical_Support.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controller\Controller_Token.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controller\Controller_Transactions.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controller\Nis_agua.cs" />
+    <Compile Include="Controller\Products_Account.cs" />
+    <Compile Include="Model\clsAccounts.cs" />
+    <Compile Include="Model\clsConexion.cs" />
+    <Compile Include="Model\clsProducts.cs" />
+    <Compile Include="Model\clsRegistro.cs" />
+    <Compile Include="Model\clsSaving.cs" />
+    <Compile Include="Model\clsServices.cs" />
+    <Compile Include="Model\clstransactions.cs" />
+    <Compile Include="Model\correo.cs" />
+    <Compile Include="Model\cslogin.cs" />
+    <Compile Include="Model\Usuario.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="View\Ejemplo.aspx.cs">
+      <DependentUpon>Ejemplo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\Ejemplo.aspx.designer.cs">
+      <DependentUpon>Ejemplo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\Home.aspx.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\Home.aspx.designer.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\M1_Home.aspx.cs">
+      <DependentUpon>M1_Home.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\M1_Home.aspx.designer.cs">
+      <DependentUpon>M1_Home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\M2_Credit_Card.aspx.cs">
+      <DependentUpon>M2_Credit_Card.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\M2_Credit_Card.aspx.designer.cs">
+      <DependentUpon>M2_Credit_Card.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\M2_Credit_Card_Info.aspx.cs">
+      <DependentUpon>M2_Credit_Card_Info.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\M2_Credit_Card_Info.aspx.designer.cs">
+      <DependentUpon>M2_Credit_Card_Info.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\M2_Loans.aspx.cs">
+      <DependentUpon>M2_Loans.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\M2_Loans.aspx.designer.cs">
+      <DependentUpon>M2_Loans.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\M2_Loans_Info.aspx.cs">
+      <DependentUpon>M2_Loans_Info.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\M2_Loans_Info.aspx.designer.cs">
+      <DependentUpon>M2_Loans_Info.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\M2_Savings_Account.aspx.cs">
+      <DependentUpon>M2_Savings_Account.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\M2_Savings_Account.aspx.designer.cs">
+      <DependentUpon>M2_Savings_Account.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\M2_Savings_Account_Info.aspx.cs">
+      <DependentUpon>M2_Savings_Account_Info.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\M2_Savings_Account_Info.aspx.designer.cs">
+      <DependentUpon>M2_Savings_Account_Info.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\M2_Savings_Plan.aspx.cs">
+      <DependentUpon>M2_Savings_Plan.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\M2_Savings_Plan.aspx.designer.cs">
+      <DependentUpon>M2_Savings_Plan.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\M2_Savings_Plan_Info.aspx.cs">
+      <DependentUpon>M2_Savings_Plan_Info.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\M2_Savings_Plan_Info.aspx.designer.cs">
+      <DependentUpon>M2_Savings_Plan_Info.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\M3_Login.aspx.cs">
+      <DependentUpon>M3_Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\M3_Login.aspx.designer.cs">
+      <DependentUpon>M3_Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\M3_Token.aspx.cs">
+      <DependentUpon>M3_Token.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\M3_Token.aspx.designer.cs">
+      <DependentUpon>M3_Token.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\M3_Transactions.aspx.cs">
+      <DependentUpon>M3_Transactions.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\M3_Transactions.aspx.designer.cs">
+      <DependentUpon>M3_Transactions.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\M4_Card_Blocking.aspx.cs">
+      <DependentUpon>M4_Card_Blocking.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\M4_Card_Blocking.aspx.designer.cs">
+      <DependentUpon>M4_Card_Blocking.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\M4_New_Loan.aspx.cs">
+      <DependentUpon>M4_New_Loan.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\M4_New_Loan.aspx.designer.cs">
+      <DependentUpon>M4_New_Loan.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\M4_Services_Pay.aspx.cs">
+      <DependentUpon>M4_Services_Pay.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\M4_Services_Pay.aspx.designer.cs">
+      <DependentUpon>M4_Services_Pay.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\M5_Internet.aspx.cs">
+      <DependentUpon>M5_Internet.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\M5_Internet.aspx.designer.cs">
+      <DependentUpon>M5_Internet.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\M5_Light.aspx.cs">
+      <DependentUpon>M5_Light.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\M5_Light.aspx.designer.cs">
+      <DependentUpon>M5_Light.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\M5_Phone.aspx.cs">
+      <DependentUpon>M5_Phone.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\M5_Phone.aspx.designer.cs">
+      <DependentUpon>M5_Phone.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\M5_Water.aspx.cs">
+      <DependentUpon>M5_Water.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\M5_Water.aspx.designer.cs">
+      <DependentUpon>M5_Water.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\M6_Account_Information.aspx.cs">
+      <DependentUpon>M6_Account_Information.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\M6_Account_Information.aspx.designer.cs">
+      <DependentUpon>M6_Account_Information.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\M6_Edit_Profile.aspx.cs">
+      <DependentUpon>M6_Edit_Profile.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\M6_Edit_Profile.aspx.designer.cs">
+      <DependentUpon>M6_Edit_Profile.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\M6_Technical_Support.aspx.cs">
+      <DependentUpon>M6_Technical_Support.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\M6_Technical_Support.aspx.designer.cs">
+      <DependentUpon>M6_Technical_Support.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\M7_preguntas.aspx.cs">
+      <DependentUpon>M7_preguntas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\M7_preguntas.aspx.designer.cs">
+      <DependentUpon>M7_preguntas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\M8_Interbank_Transfer.aspx.cs">
+      <DependentUpon>M8_Interbank_Transfer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\M8_Interbank_Transfer.aspx.designer.cs">
+      <DependentUpon>M8_Interbank_Transfer.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\Register_client.aspx.cs">
+      <DependentUpon>Register_client.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\Register_client.aspx.designer.cs">
+      <DependentUpon>Register_client.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\ServiceReference1\agua.wsdl" />
+    <None Include="Connected Services\ServiceReference1\agua.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiceReference4\Service1.wsdl" />
+    <None Include="Connected Services\ServiceReference4\Service1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiceReference4\Service11.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiceReference5\Service1.wsdl" />
+    <None Include="Connected Services\ServiceReference5\Service1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiceReference5\Service11.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+    <Content Include="View\fonts\fontawesome-webfont.eot" />
+    <Content Include="View\fonts\fontawesome-webfont.ttf" />
+    <Content Include="View\fonts\fontawesome-webfont.woff" />
+    <Content Include="View\fonts\fontawesome-webfont.woff2" />
+    <Content Include="View\fonts\FontAwesome.otf" />
+    <Content Include="Properties\DataSources\System.Data.DataSet.datasource" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Connected Services\api\" />
+    <WCFMetadataStorage Include="Connected Services\ServiceReference1\" />
+    <WCFMetadataStorage Include="Connected Services\ServiceReference2\" />
+    <WCFMetadataStorage Include="Connected Services\ServiceReference3\" />
+    <WCFMetadataStorage Include="Connected Services\ServiceReference4\" />
+    <WCFMetadataStorage Include="Connected Services\ServiceReference5\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>54588</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>https://localhost:44341/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Este proyecto hace referencia a los paquetes NuGet que faltan en este equipo. Use la restauración de paquetes NuGet para descargarlos. Para obtener más información, consulte http://go.microsoft.com/fwlink/?LinkID=322105. El archivo que falta es {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

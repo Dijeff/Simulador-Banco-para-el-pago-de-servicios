@@ -1,0 +1,13 @@
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Servicio_Electricidad\Servicio_Electricidad\bin\Servicio_Electricidad.dll.config
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Servicio_Electricidad\Servicio_Electricidad\bin\Servicio_Electricidad.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Servicio_Electricidad\Servicio_Electricidad\bin\Servicio_Electricidad.pdb
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Servicio_Electricidad\Servicio_Electricidad\obj\Debug\Servicio_Electricidad.csprojAssemblyReference.cache
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Servicio_Electricidad\Servicio_Electricidad\obj\Debug\Servicio_Electricidad.csproj.CoreCompileInputs.cache
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Servicio_Electricidad\Servicio_Electricidad\obj\Debug\Servicio_Electricidad.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Servicio_Electricidad\Servicio_Electricidad\obj\Debug\Servicio_Electricidad.pdb
+C:\Users\PLAYAZO\Desktop\Kevin\Servicio_Electricidad\Servicio_Electricidad\bin\Servicio_Electricidad.dll.config
+C:\Users\PLAYAZO\Desktop\Kevin\Servicio_Electricidad\Servicio_Electricidad\bin\Servicio_Electricidad.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Servicio_Electricidad\Servicio_Electricidad\bin\Servicio_Electricidad.pdb
+C:\Users\PLAYAZO\Desktop\Kevin\Servicio_Electricidad\Servicio_Electricidad\obj\Debug\Servicio_Electricidad.csprojAssemblyReference.cache
+C:\Users\PLAYAZO\Desktop\Kevin\Servicio_Electricidad\Servicio_Electricidad\obj\Debug\Servicio_Electricidad.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Servicio_Electricidad\Servicio_Electricidad\obj\Debug\Servicio_Electricidad.pdb

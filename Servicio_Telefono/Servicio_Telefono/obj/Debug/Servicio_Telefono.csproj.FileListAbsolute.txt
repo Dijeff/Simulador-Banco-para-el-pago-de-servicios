@@ -1,0 +1,6 @@
+C:\Users\PLAYAZO\Desktop\Kevin\Servicio_Telefono\Servicio_Telefono\bin\Servicio_Telefono.dll.config
+C:\Users\PLAYAZO\Desktop\Kevin\Servicio_Telefono\Servicio_Telefono\bin\Servicio_Telefono.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Servicio_Telefono\Servicio_Telefono\bin\Servicio_Telefono.pdb
+C:\Users\PLAYAZO\Desktop\Kevin\Servicio_Telefono\Servicio_Telefono\obj\Debug\Servicio_Telefono.csprojAssemblyReference.cache
+C:\Users\PLAYAZO\Desktop\Kevin\Servicio_Telefono\Servicio_Telefono\obj\Debug\Servicio_Telefono.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Servicio_Telefono\Servicio_Telefono\obj\Debug\Servicio_Telefono.pdb

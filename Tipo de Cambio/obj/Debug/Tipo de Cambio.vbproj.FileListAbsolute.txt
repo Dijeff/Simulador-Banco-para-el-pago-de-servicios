@@ -1,0 +1,23 @@
+D:\CUC\Programacion 2\Tipo de Cambio\bin\Debug\Tipo de Cambio.exe.config
+D:\CUC\Programacion 2\Tipo de Cambio\bin\Debug\Tipo de Cambio.exe
+D:\CUC\Programacion 2\Tipo de Cambio\bin\Debug\Tipo de Cambio.pdb
+D:\CUC\Programacion 2\Tipo de Cambio\bin\Debug\Tipo de Cambio.xml
+D:\CUC\Programacion 2\Tipo de Cambio\obj\Debug\Tipo de Cambio.vbprojAssemblyReference.cache
+D:\CUC\Programacion 2\Tipo de Cambio\obj\Debug\Tipo_de_Cambio.Form1.resources
+D:\CUC\Programacion 2\Tipo de Cambio\obj\Debug\Tipo_de_Cambio.Resources.resources
+D:\CUC\Programacion 2\Tipo de Cambio\obj\Debug\Tipo de Cambio.vbproj.GenerateResource.cache
+D:\CUC\Programacion 2\Tipo de Cambio\obj\Debug\Tipo de Cambio.vbproj.CoreCompileInputs.cache
+D:\CUC\Programacion 2\Tipo de Cambio\obj\Debug\Tipo de Cambio.exe
+D:\CUC\Programacion 2\Tipo de Cambio\obj\Debug\Tipo de Cambio.xml
+D:\CUC\Programacion 2\Tipo de Cambio\obj\Debug\Tipo de Cambio.pdb
+D:\Exposición Web service\Tipo de Cambio\bin\Debug\Tipo de Cambio.exe.config
+D:\Exposición Web service\Tipo de Cambio\bin\Debug\Tipo de Cambio.exe
+D:\Exposición Web service\Tipo de Cambio\bin\Debug\Tipo de Cambio.pdb
+D:\Exposición Web service\Tipo de Cambio\bin\Debug\Tipo de Cambio.xml
+D:\Exposición Web service\Tipo de Cambio\obj\Debug\Tipo de Cambio.vbprojAssemblyReference.cache
+D:\Exposición Web service\Tipo de Cambio\obj\Debug\Tipo_de_Cambio.Form1.resources
+D:\Exposición Web service\Tipo de Cambio\obj\Debug\Tipo_de_Cambio.Resources.resources
+D:\Exposición Web service\Tipo de Cambio\obj\Debug\Tipo de Cambio.vbproj.GenerateResource.cache
+D:\Exposición Web service\Tipo de Cambio\obj\Debug\Tipo de Cambio.exe
+D:\Exposición Web service\Tipo de Cambio\obj\Debug\Tipo de Cambio.xml
+D:\Exposición Web service\Tipo de Cambio\obj\Debug\Tipo de Cambio.pdb

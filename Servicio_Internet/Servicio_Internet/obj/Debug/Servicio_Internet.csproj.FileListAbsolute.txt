@@ -1,0 +1,7 @@
+C:\Users\valeria\Music\Servicio_Internet\Servicio_Internet\bin\Servicio_Internet.dll.config
+C:\Users\valeria\Music\Servicio_Internet\Servicio_Internet\bin\Servicio_Internet.dll
+C:\Users\valeria\Music\Servicio_Internet\Servicio_Internet\bin\Servicio_Internet.pdb
+C:\Users\valeria\Music\Servicio_Internet\Servicio_Internet\obj\Debug\Servicio_Internet.csprojAssemblyReference.cache
+C:\Users\valeria\Music\Servicio_Internet\Servicio_Internet\obj\Debug\Servicio_Internet.csproj.CoreCompileInputs.cache
+C:\Users\valeria\Music\Servicio_Internet\Servicio_Internet\obj\Debug\Servicio_Internet.dll
+C:\Users\valeria\Music\Servicio_Internet\Servicio_Internet\obj\Debug\Servicio_Internet.pdb

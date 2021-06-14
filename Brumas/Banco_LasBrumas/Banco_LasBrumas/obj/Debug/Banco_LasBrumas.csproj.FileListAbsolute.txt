@@ -1,0 +1,528 @@
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\Banco_LasBrumas.dll.config
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\Banco_LasBrumas.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\Banco_LasBrumas.pdb
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csc.exe
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csc.exe.config
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csc.rsp
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csi.exe
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csi.exe.config
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csi.rsp
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.AppContext.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Console.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.IO.Compression.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Net.Http.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.ValueTuple.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\vbc.exe
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\vbc.exe.config
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\vbc.rsp
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\VBCSCompiler.exe
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.csproj.CoreCompileInputs.cache
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.csproj.CopyComplete
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.dll
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.pdb
+C:\Users\knava\source\repos\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.csprojAssemblyReference.cache
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\Banco_LasBrumas.dll.config
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\Banco_LasBrumas.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\Banco_LasBrumas.pdb
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csc.exe
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csc.exe.config
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csc.rsp
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csi.exe
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csi.exe.config
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csi.rsp
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.AppContext.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Console.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.IO.Compression.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Net.Http.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.ValueTuple.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\vbc.exe
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\vbc.exe.config
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\vbc.rsp
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\VBCSCompiler.exe
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.csprojAssemblyReference.cache
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.csproj.CopyComplete
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.dll
+C:\Users\PLAYAZO\Desktop\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.pdb
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\Banco_LasBrumas.dll.config
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\Banco_LasBrumas.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\Banco_LasBrumas.pdb
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csc.exe
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csc.exe.config
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csc.rsp
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csi.exe
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csi.exe.config
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csi.rsp
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.AppContext.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Console.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.IO.Compression.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Net.Http.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.ValueTuple.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\vbc.exe
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\vbc.exe.config
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\vbc.rsp
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\VBCSCompiler.exe
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.csprojAssemblyReference.cache
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.csproj.CoreCompileInputs.cache
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.csproj.CopyComplete
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.dll
+C:\Users\valeria\Desktop\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.pdb
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\Banco_LasBrumas.dll.config
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\Banco_LasBrumas.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\Banco_LasBrumas.pdb
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csc.exe
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csc.exe.config
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csc.rsp
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csi.exe
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csi.exe.config
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csi.rsp
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.AppContext.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Console.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.IO.Compression.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Net.Http.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.ValueTuple.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\vbc.exe
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\vbc.exe.config
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\vbc.rsp
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\VBCSCompiler.exe
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.csprojAssemblyReference.cache
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.csproj.CopyComplete
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.dll
+C:\Users\danie\Documents\Programacion V\Brumas\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.pdb
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\Banco_LasBrumas.dll.config
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\Banco_LasBrumas.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\Banco_LasBrumas.pdb
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csc.exe
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csc.exe.config
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csc.rsp
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csi.exe
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csi.exe.config
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csi.rsp
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.AppContext.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Console.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.IO.Compression.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Net.Http.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.ValueTuple.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\vbc.exe
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\vbc.exe.config
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\vbc.rsp
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\VBCSCompiler.exe
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.csprojAssemblyReference.cache
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.csproj.CoreCompileInputs.cache
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.csproj.CopyComplete
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.dll
+C:\Users\valeria\Pictures\Brumas\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.pdb
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\Banco_LasBrumas.dll.config
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\Banco_LasBrumas.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\Banco_LasBrumas.pdb
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csc.exe
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csc.exe.config
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csc.rsp
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csi.exe
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csi.exe.config
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csi.rsp
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.AppContext.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Collections.Immutable.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Console.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Globalization.Calendars.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.IO.Compression.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.IO.FileSystem.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Net.Http.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Net.Sockets.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Reflection.Metadata.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.ValueTuple.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Xml.XPath.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\vbc.exe
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\vbc.exe.config
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\vbc.rsp
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\VBCSCompiler.exe
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\VBCSCompiler.exe.config
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.csprojAssemblyReference.cache
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.csproj.CoreCompileInputs.cache
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.csproj.CopyComplete
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 2\Vale\Brumas\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.pdb
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\Banco_LasBrumas.dll.config
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\Banco_LasBrumas.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\Banco_LasBrumas.pdb
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csc.exe
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csc.exe.config
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csc.rsp
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csi.exe
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csi.exe.config
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csi.rsp
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.AppContext.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Console.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.IO.Compression.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Net.Http.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.ValueTuple.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\vbc.exe
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\vbc.exe.config
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\vbc.rsp
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\VBCSCompiler.exe
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.csprojAssemblyReference.cache
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.csproj.CopyComplete
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.dll
+C:\Users\PLAYAZO\Desktop\Brumas\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.pdb
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\Banco_LasBrumas.dll.config
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\Banco_LasBrumas.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\Banco_LasBrumas.pdb
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csc.exe
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csc.exe.config
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csc.rsp
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csi.exe
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csi.exe.config
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csi.rsp
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.AppContext.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Collections.Immutable.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Console.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Globalization.Calendars.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.IO.Compression.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.IO.FileSystem.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Net.Http.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Net.Sockets.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Reflection.Metadata.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.ValueTuple.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Xml.XPath.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\vbc.exe
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\vbc.exe.config
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\vbc.rsp
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\VBCSCompiler.exe
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\VBCSCompiler.exe.config
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.csprojAssemblyReference.cache
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.csproj.CoreCompileInputs.cache
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.csproj.CopyComplete
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Dijeff\Brumas\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.pdb
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\Banco_LasBrumas.dll.config
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\Banco_LasBrumas.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\Banco_LasBrumas.pdb
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csc.exe
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csc.exe.config
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csc.rsp
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csi.exe
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csi.exe.config
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\csi.rsp
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.AppContext.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Console.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.IO.Compression.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Net.Http.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.ValueTuple.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\vbc.exe
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\vbc.exe.config
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\vbc.rsp
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\VBCSCompiler.exe
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.csprojAssemblyReference.cache
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.csproj.CopyComplete
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Brumas\Banco_LasBrumas\Banco_LasBrumas\obj\Debug\Banco_LasBrumas.pdb

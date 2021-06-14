@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:wsp="http://www.w3.org/ns/ws-policy" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:tns="http://ws/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsp1_2="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" name="agua" targetNamespace="http://ws/" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <xsd:schema>
+      <xsd:import schemaLocation="http://localhost:8080/webserviceagua/agua?xsd=1" namespace="http://ws/" />
+    </xsd:schema>
+  </types>
+  <message name="pago">
+    <part name="parameters" element="tns:pago" />
+  </message>
+  <message name="pagoResponse">
+    <part name="parameters" element="tns:pagoResponse" />
+  </message>
+  <message name="InstantiationException">
+    <part name="fault" element="tns:InstantiationException" />
+  </message>
+  <message name="IllegalAccessException">
+    <part name="fault" element="tns:IllegalAccessException" />
+  </message>
+  <message name="hell">
+    <part name="parameters" element="tns:hell" />
+  </message>
+  <message name="hellResponse">
+    <part name="parameters" element="tns:hellResponse" />
+  </message>
+  <portType name="agua">
+    <operation name="pago">
+      <input wsam:Action="http://ws/agua/pagoRequest" message="tns:pago" />
+      <output wsam:Action="http://ws/agua/pagoResponse" message="tns:pagoResponse" />
+      <fault wsam:Action="http://ws/agua/pago/Fault/InstantiationException" name="InstantiationException" message="tns:InstantiationException" />
+      <fault wsam:Action="http://ws/agua/pago/Fault/IllegalAccessException" name="IllegalAccessException" message="tns:IllegalAccessException" />
+    </operation>
+    <operation name="hell">
+      <input wsam:Action="http://ws/agua/hellRequest" message="tns:hell" />
+      <output wsam:Action="http://ws/agua/hellResponse" message="tns:hellResponse" />
+      <fault wsam:Action="http://ws/agua/hell/Fault/InstantiationException" name="InstantiationException" message="tns:InstantiationException" />
+      <fault wsam:Action="http://ws/agua/hell/Fault/IllegalAccessException" name="IllegalAccessException" message="tns:IllegalAccessException" />
+    </operation>
+  </portType>
+  <binding name="aguaPortBinding" type="tns:agua">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <operation name="pago">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+      <fault name="InstantiationException">
+        <soap:fault use="literal" name="InstantiationException" namespace="" />
+      </fault>
+      <fault name="IllegalAccessException">
+        <soap:fault use="literal" name="IllegalAccessException" namespace="" />
+      </fault>
+    </operation>
+    <operation name="hell">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+      <fault name="InstantiationException">
+        <soap:fault use="literal" name="InstantiationException" namespace="" />
+      </fault>
+      <fault name="IllegalAccessException">
+        <soap:fault use="literal" name="IllegalAccessException" namespace="" />
+      </fault>
+    </operation>
+  </binding>
+  <service name="agua">
+    <port name="aguaPort" binding="tns:aguaPortBinding">
+      <soap:address location="http://localhost:8080/webserviceagua/agua" />
+    </port>
+  </service>
+</definitions>

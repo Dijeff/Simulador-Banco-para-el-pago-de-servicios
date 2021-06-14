@@ -1,0 +1,13 @@
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Servicio_Transaccion\Servicio_Transaccion\bin\Servicio_Transaccion.dll.config
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Servicio_Transaccion\Servicio_Transaccion\bin\Servicio_Transaccion.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Servicio_Transaccion\Servicio_Transaccion\bin\Servicio_Transaccion.pdb
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Servicio_Transaccion\Servicio_Transaccion\obj\Debug\Servicio_Transaccion.csprojAssemblyReference.cache
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Servicio_Transaccion\Servicio_Transaccion\obj\Debug\Servicio_Transaccion.csproj.CoreCompileInputs.cache
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Servicio_Transaccion\Servicio_Transaccion\obj\Debug\Servicio_Transaccion.dll
+D:\Sexto Cuatrimestre\Progra 5\Requerimiento grupal 4\Servicio_Transaccion\Servicio_Transaccion\obj\Debug\Servicio_Transaccion.pdb
+C:\Users\PLAYAZO\Desktop\Kevin\Servicio_Transaccion\Servicio_Transaccion\bin\Servicio_Transaccion.dll.config
+C:\Users\PLAYAZO\Desktop\Kevin\Servicio_Transaccion\Servicio_Transaccion\bin\Servicio_Transaccion.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Servicio_Transaccion\Servicio_Transaccion\bin\Servicio_Transaccion.pdb
+C:\Users\PLAYAZO\Desktop\Kevin\Servicio_Transaccion\Servicio_Transaccion\obj\Debug\Servicio_Transaccion.csprojAssemblyReference.cache
+C:\Users\PLAYAZO\Desktop\Kevin\Servicio_Transaccion\Servicio_Transaccion\obj\Debug\Servicio_Transaccion.dll
+C:\Users\PLAYAZO\Desktop\Kevin\Servicio_Transaccion\Servicio_Transaccion\obj\Debug\Servicio_Transaccion.pdb
